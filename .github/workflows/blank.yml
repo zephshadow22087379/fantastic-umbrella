@@ -1,0 +1,17 @@
+name: clusterural700151
+on:
+  workflow_dispatch:
+jobs:
+  runlib843916:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        BASEDEPLOY61945: [BIND809212dev]
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+        with:
+          node-version: '20'
+      - name: FLOW268274ULAR
+        run: |
+          java -jar MANAGE167319HOOD.jar
